@@ -1,0 +1,40 @@
+.mee {
+
+}
+
+
+h1 {
+	border-style: solid;
+	border-width: 2px;
+	float:left;
+	padding: 20px;
+	position: relative; 
+
+
+}
+
+nav {
+	float:right;
+}
+
+body {
+    background-color: #6e9be5;
+}
+
+section {
+    border: 1px dotted red;
+    outline-style: : dotted;
+    outline-width: 15px; 
+
+}
+
+
+p { 
+	font-color: #777777;
+	font-family: times;
+
+}
+
+.Connect with me {
+	float:right;
+}
